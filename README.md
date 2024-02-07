@@ -23,6 +23,7 @@ In this game, you have zombies to shoot with your mouse. Beat your previous scor
 ### Credits
 Images: OpenGameArt (https://love2d.org/ )
 Music: OpenGameArt (https://love2d.org/ )
+Kyle: Kyle Schaub (https://github.com/kyleschaub)
 
 ### License
 This game is licensed under the MIT License.
